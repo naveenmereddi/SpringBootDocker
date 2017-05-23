@@ -1,0 +1,10 @@
+---
+applications:
+- name: TodoListApplication
+  memory: 1024M
+  instances: 1
+  random-route: false
+  buildpack: java_buildpack
+  domain: cfapps.io
+  host: naveen.mereddi
+  

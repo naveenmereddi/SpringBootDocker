@@ -1,0 +1,5 @@
+com/naveenmereddi/SpringBootAppApplicationTests.class
+com/naveenmereddi/util/JsonReader.class
+com/naveenmereddi/services/TaskServiceImplTest.class
+com/naveenmereddi/services/UserServiceImplTest.class
+com/naveenmereddi/util/RegExTest.class
